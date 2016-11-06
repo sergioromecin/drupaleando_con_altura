@@ -85,9 +85,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="549.85115"
-     inkscape:cy="333.58534"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="405.43028"
+     inkscape:cy="585.43681"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -155,7 +155,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -455,7 +455,7 @@
          x="61.625191"
          y="348.6694"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#ffffff"
-         id="tspan4601-0">Te gusta compartir? Dale una chance al software libre</tspan><tspan
+         id="tspan4601-0">¿Te gusta compartir? Dale una chance al software libre</tspan><tspan
          sodipodi:role="line"
          x="61.625191"
          y="386.00769"
@@ -465,7 +465,7 @@
          x="61.625191"
          y="438.6109"
          id="tspan5016-8"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;line-height:250%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#ffffff">Vine por el código me quedé por la comunidad!</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;line-height:250%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#ffffff">¡Vine por el código me quedé por la comunidad!</tspan><tspan
          sodipodi:role="line"
          x="61.625191"
          y="476.9194"
@@ -478,22 +478,22 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;line-height:170.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#000000">Rolando Monzón, Sergio Romecín</tspan><tspan
          sodipodi:role="line"
          x="61.625191"
-         y="566.86084"
+         y="566.8609"
          id="tspan5022-7"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;line-height:250%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#ffffff">Drupal Lab:         +               +</tspan><tspan
          sodipodi:role="line"
          x="61.625191"
-         y="601.58105"
+         y="601.58112"
          id="tspan5061-2"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;line-height:129.99999523%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#000000">Ronald Nina</tspan><tspan
          sodipodi:role="line"
          x="61.625191"
-         y="652.36084"
+         y="652.3609"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;line-height:250%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#ffffff"
          id="tspan6192">Drupal en la vida real</tspan><tspan
          sodipodi:role="line"
          x="61.625191"
-         y="687.08105"
+         y="687.08112"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;line-height:129.99999523%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;fill:#000000"
          id="tspan6198">Alejandro Córdoba</tspan></text>
     <text
